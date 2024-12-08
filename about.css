@@ -1,0 +1,76 @@
+.body{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.diva{
+    background-color: rgb(19, 19, 58);
+}
+.head1{
+    color: white;
+    padding: 30px;
+    padding-left: 80px;
+    
+}
+.crop{
+    color: orangered;
+}
+.list{
+    list-style: none;
+    float: right;
+    margin-top: 25px;
+}
+.list a {
+ font-weight: 100;
+ color: rgb(228, 234, 240);
+ font-size: 20px;
+ text-decoration: none; 
+}
+.list li {
+    float: left;
+    padding: 10px 20px;
+}
+.hr {
+    background-color: red;
+    width: 100%;
+    height: 5px;
+    border-top: 5px;
+    line-height: 80%;
+}
+.text2{
+    padding-left: 100px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.divc form{
+    float: right;
+    margin-top: -117px;
+    padding-top: 37px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+
+
+}
+.inp{
+    height: 35px;
+    padding-left: -15px;
+    padding-right: -15px;
+    width: ;
+}
+.btn1{
+    height: 35px;
+    background: red;
+    padding-left: -15px;
+    padding-right: -15px;
+    color: white;
+}
+.divc{
+    margin-top: -10px;
+    padding-top:2px;
+    padding-bottom: 5px;
+    background-color: rgb(19, 19, 58);
+}
